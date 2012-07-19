@@ -101,3 +101,7 @@ define(function(require){
   });
 });
 ```
+
+```
+jam install stupid-templates
+```

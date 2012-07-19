@@ -1,0 +1,16 @@
+{
+  "author": "John Fawcett <jrf0110@gmail.com> (http://johnfawcett.name)",
+  "name": "stupid-templates",
+  "description": "They're pretty fuckin' stupid - templates that don't do anything except hold variables",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jrf0110/stupid-templates.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "~0.6.15"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
